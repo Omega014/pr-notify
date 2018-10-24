@@ -1,3 +1,4 @@
+import requests
 import config as cf
 
 
